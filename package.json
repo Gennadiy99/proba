@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap test",
+  "main": "index.js",
+  
+  "keywords": [
+    "bootstrap",
+    "front"
+  ],
+  "author": "login",
+  "license": "MIT"
+}
